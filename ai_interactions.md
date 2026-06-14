@@ -11,10 +11,13 @@
 **What task did you give the agent?**
 
 <!-- Describe the goal you asked the agent to accomplish -->
+I ask the agents to detect any bugs and once it was done I ran the requirements set to see
+if the AI agents met the requirements 
 
 **What did the agent do?**
 
 <!-- List the steps the agent took (files edited, commands run, etc.) -->
+
 
 **What did you have to verify or fix manually?**
 
@@ -28,7 +31,7 @@
 
 | Edge Case | Prompt Used | AI-Suggested Test | Did It Pass? | Your Reasoning |
 |-----------|-------------|-------------------|--------------|----------------|
-| | | | | |
+| | | | | |  
 | | | | | |
 | | | | | |
 
@@ -67,10 +70,11 @@
 | | Model A | Model B |
 |-|---------|---------|
 | **Model name** | | |
+  Claude ,  Deepseek 
 | **Response summary** | | |
 | **More Pythonic?** | | |
 | **Clearer explanation?** | | |
 
 **Which did you prefer and why?**
-
+I perfer deepseek mostly because i'm most comfortable with using it compare to claude ai. 
 <!-- Your conclusion -->
