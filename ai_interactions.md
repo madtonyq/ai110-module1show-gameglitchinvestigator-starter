@@ -72,6 +72,7 @@ if the AI agents met the requirements
 | **Model name** | | |
   Claude ,  Deepseek 
 | **Response summary** | | |
+I ask what bug is contained a piece of code 
 | **More Pythonic?** | | |
 | **Clearer explanation?** | | |
 
